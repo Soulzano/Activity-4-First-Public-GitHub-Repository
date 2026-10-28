@@ -1,4 +1,5 @@
 Application Name: OwlDoit
+
 Owldoit is an application made for college students to have all their tasks in one app instead of
 switching every time they have to adjust their schedules or see their grades. It links your google
 account and school email in the app, now it prevents the hassle of switching apps when
