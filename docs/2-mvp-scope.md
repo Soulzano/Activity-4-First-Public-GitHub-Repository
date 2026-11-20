@@ -9,5 +9,5 @@ To launch a functional version by 2035 focusing strictly on core value.
     *   In-app checklist and notepad: It helps the student keep track of their homework, letting them order them by date or priority, and also letting them write notes for each course
     *   Optimized Browsing: Since everything is in one application, the student won't need to open multiple tabs or apps anymore to keep track of their studies, while simultaneously keeping the overall app as lightweight as possible, with options allowing to lessen the load even more for low-end PCs
 *   **Nice to Have (Post-Launch Backlog):**
-    *   Google Account Linking: [Deferred feature - explain why it can wait]
-    *   Built-in Microsoft Word: [Deferred feature]
+    *   Google Account Linking: [This is a non-essential feature as it only helps you keep track of google calendar and other apps linked to google]
+    *   Built-in Microsoft Word: [Word already doesn't take up too much memory so this only serves to lessen the load even more, which can be postponed until all the essential features are finished]
